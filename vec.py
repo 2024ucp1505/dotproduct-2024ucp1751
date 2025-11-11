@@ -19,3 +19,6 @@ vecDot = 0
 for i in range (0,n):
 	vecDot += (list1[i] * list2[j])
 print("Dot product : ",vecDot,"\n")
+
+########################################
+#this is from lokesh's side
